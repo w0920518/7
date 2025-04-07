@@ -31,7 +31,7 @@ body {
 }
 
 #dino.jump {
-    animation: jump 1.5s linear;
+    animation: jump 0.1s linear;
 }
 
 @keyframes jump {
